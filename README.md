@@ -1,2 +1,2 @@
-# fabacademyx.github.io
+# fabacademyx
 Fab Academy regional program GitHub repository
